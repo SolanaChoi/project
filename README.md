@@ -2,4 +2,7 @@
 - 오늘도 좋은 하루! 😋
 
 ## source tree 사용하기 
-- GUI로 add, commit, push 하기 
+- GUI로 add, commit, push, pull 하기 
+
+## VS Code
+- GUI로 add, commit, push, pull 하기 
